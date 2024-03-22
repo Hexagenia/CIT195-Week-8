@@ -1,0 +1,14 @@
+F:\NMC\Projects\Week 8\ex2_working_with_delegates\bin\Debug\net8.0\ex2_working_with_delegates.exe
+F:\NMC\Projects\Week 8\ex2_working_with_delegates\bin\Debug\net8.0\ex2_working_with_delegates.deps.json
+F:\NMC\Projects\Week 8\ex2_working_with_delegates\bin\Debug\net8.0\ex2_working_with_delegates.runtimeconfig.json
+F:\NMC\Projects\Week 8\ex2_working_with_delegates\bin\Debug\net8.0\ex2_working_with_delegates.dll
+F:\NMC\Projects\Week 8\ex2_working_with_delegates\bin\Debug\net8.0\ex2_working_with_delegates.pdb
+F:\NMC\Projects\Week 8\ex2_working_with_delegates\obj\Debug\net8.0\ex2_working_with_delegates.GeneratedMSBuildEditorConfig.editorconfig
+F:\NMC\Projects\Week 8\ex2_working_with_delegates\obj\Debug\net8.0\ex2_working_with_delegates.AssemblyInfoInputs.cache
+F:\NMC\Projects\Week 8\ex2_working_with_delegates\obj\Debug\net8.0\ex2_working_with_delegates.AssemblyInfo.cs
+F:\NMC\Projects\Week 8\ex2_working_with_delegates\obj\Debug\net8.0\ex2_working_with_delegates.csproj.CoreCompileInputs.cache
+F:\NMC\Projects\Week 8\ex2_working_with_delegates\obj\Debug\net8.0\ex2_working_with_delegates.dll
+F:\NMC\Projects\Week 8\ex2_working_with_delegates\obj\Debug\net8.0\refint\ex2_working_with_delegates.dll
+F:\NMC\Projects\Week 8\ex2_working_with_delegates\obj\Debug\net8.0\ex2_working_with_delegates.pdb
+F:\NMC\Projects\Week 8\ex2_working_with_delegates\obj\Debug\net8.0\ex2_working_with_delegates.genruntimeconfig.cache
+F:\NMC\Projects\Week 8\ex2_working_with_delegates\obj\Debug\net8.0\ref\ex2_working_with_delegates.dll

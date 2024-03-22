@@ -1,0 +1,14 @@
+F:\NMC\Projects\Week 8\ex3_working_with_delegates_and_events\bin\Debug\net8.0\ex3_working_with_delegates_and_events.exe
+F:\NMC\Projects\Week 8\ex3_working_with_delegates_and_events\bin\Debug\net8.0\ex3_working_with_delegates_and_events.deps.json
+F:\NMC\Projects\Week 8\ex3_working_with_delegates_and_events\bin\Debug\net8.0\ex3_working_with_delegates_and_events.runtimeconfig.json
+F:\NMC\Projects\Week 8\ex3_working_with_delegates_and_events\bin\Debug\net8.0\ex3_working_with_delegates_and_events.dll
+F:\NMC\Projects\Week 8\ex3_working_with_delegates_and_events\bin\Debug\net8.0\ex3_working_with_delegates_and_events.pdb
+F:\NMC\Projects\Week 8\ex3_working_with_delegates_and_events\obj\Debug\net8.0\ex3_working_with_delegates_and_events.GeneratedMSBuildEditorConfig.editorconfig
+F:\NMC\Projects\Week 8\ex3_working_with_delegates_and_events\obj\Debug\net8.0\ex3_working_with_delegates_and_events.AssemblyInfoInputs.cache
+F:\NMC\Projects\Week 8\ex3_working_with_delegates_and_events\obj\Debug\net8.0\ex3_working_with_delegates_and_events.AssemblyInfo.cs
+F:\NMC\Projects\Week 8\ex3_working_with_delegates_and_events\obj\Debug\net8.0\ex3_working_with_delegates_and_events.csproj.CoreCompileInputs.cache
+F:\NMC\Projects\Week 8\ex3_working_with_delegates_and_events\obj\Debug\net8.0\ex3_working_with_delegates_and_events.dll
+F:\NMC\Projects\Week 8\ex3_working_with_delegates_and_events\obj\Debug\net8.0\refint\ex3_working_with_delegates_and_events.dll
+F:\NMC\Projects\Week 8\ex3_working_with_delegates_and_events\obj\Debug\net8.0\ex3_working_with_delegates_and_events.pdb
+F:\NMC\Projects\Week 8\ex3_working_with_delegates_and_events\obj\Debug\net8.0\ex3_working_with_delegates_and_events.genruntimeconfig.cache
+F:\NMC\Projects\Week 8\ex3_working_with_delegates_and_events\obj\Debug\net8.0\ref\ex3_working_with_delegates_and_events.dll

@@ -1,0 +1,14 @@
+F:\NMC\Projects\Week 8\ex1_multicast_delegates\bin\Debug\net8.0\ex1_multicast_delegates.exe
+F:\NMC\Projects\Week 8\ex1_multicast_delegates\bin\Debug\net8.0\ex1_multicast_delegates.deps.json
+F:\NMC\Projects\Week 8\ex1_multicast_delegates\bin\Debug\net8.0\ex1_multicast_delegates.runtimeconfig.json
+F:\NMC\Projects\Week 8\ex1_multicast_delegates\bin\Debug\net8.0\ex1_multicast_delegates.dll
+F:\NMC\Projects\Week 8\ex1_multicast_delegates\bin\Debug\net8.0\ex1_multicast_delegates.pdb
+F:\NMC\Projects\Week 8\ex1_multicast_delegates\obj\Debug\net8.0\ex1_multicast_delegates.GeneratedMSBuildEditorConfig.editorconfig
+F:\NMC\Projects\Week 8\ex1_multicast_delegates\obj\Debug\net8.0\ex1_multicast_delegates.AssemblyInfoInputs.cache
+F:\NMC\Projects\Week 8\ex1_multicast_delegates\obj\Debug\net8.0\ex1_multicast_delegates.AssemblyInfo.cs
+F:\NMC\Projects\Week 8\ex1_multicast_delegates\obj\Debug\net8.0\ex1_multicast_delegates.csproj.CoreCompileInputs.cache
+F:\NMC\Projects\Week 8\ex1_multicast_delegates\obj\Debug\net8.0\ex1_multicast_delegates.dll
+F:\NMC\Projects\Week 8\ex1_multicast_delegates\obj\Debug\net8.0\refint\ex1_multicast_delegates.dll
+F:\NMC\Projects\Week 8\ex1_multicast_delegates\obj\Debug\net8.0\ex1_multicast_delegates.pdb
+F:\NMC\Projects\Week 8\ex1_multicast_delegates\obj\Debug\net8.0\ex1_multicast_delegates.genruntimeconfig.cache
+F:\NMC\Projects\Week 8\ex1_multicast_delegates\obj\Debug\net8.0\ref\ex1_multicast_delegates.dll
