@@ -1,0 +1,14 @@
+F:\NMC\Projects\Week 8\ex4_linq\bin\Debug\net8.0\ex4_linq.exe
+F:\NMC\Projects\Week 8\ex4_linq\bin\Debug\net8.0\ex4_linq.deps.json
+F:\NMC\Projects\Week 8\ex4_linq\bin\Debug\net8.0\ex4_linq.runtimeconfig.json
+F:\NMC\Projects\Week 8\ex4_linq\bin\Debug\net8.0\ex4_linq.dll
+F:\NMC\Projects\Week 8\ex4_linq\bin\Debug\net8.0\ex4_linq.pdb
+F:\NMC\Projects\Week 8\ex4_linq\obj\Debug\net8.0\ex4_linq.GeneratedMSBuildEditorConfig.editorconfig
+F:\NMC\Projects\Week 8\ex4_linq\obj\Debug\net8.0\ex4_linq.AssemblyInfoInputs.cache
+F:\NMC\Projects\Week 8\ex4_linq\obj\Debug\net8.0\ex4_linq.AssemblyInfo.cs
+F:\NMC\Projects\Week 8\ex4_linq\obj\Debug\net8.0\ex4_linq.csproj.CoreCompileInputs.cache
+F:\NMC\Projects\Week 8\ex4_linq\obj\Debug\net8.0\ex4_linq.dll
+F:\NMC\Projects\Week 8\ex4_linq\obj\Debug\net8.0\refint\ex4_linq.dll
+F:\NMC\Projects\Week 8\ex4_linq\obj\Debug\net8.0\ex4_linq.pdb
+F:\NMC\Projects\Week 8\ex4_linq\obj\Debug\net8.0\ex4_linq.genruntimeconfig.cache
+F:\NMC\Projects\Week 8\ex4_linq\obj\Debug\net8.0\ref\ex4_linq.dll
